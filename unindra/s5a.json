@@ -1,0 +1,1346 @@
+[
+    {
+        "date": "2022-09-12",
+        "dateReadable": "Senin, 12 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-12",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-12",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-09-12 17:00",
+        "endPeriod": "2022-09-12 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-13",
+        "dateReadable": "Selasa, 13 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-13",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-09-13",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-09-13 17:00",
+        "endPeriod": "2022-09-13 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-14",
+        "dateReadable": "Rabu, 14 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-14",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-14",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-09-14 18:30",
+        "endPeriod": "2022-09-14 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": true
+    },
+    {
+        "date": "2022-09-19",
+        "dateReadable": "Senin, 19 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-19",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-19",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-09-19 17:00",
+        "endPeriod": "2022-09-19 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-20",
+        "dateReadable": "Selasa, 20 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-20",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-20",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-09-20 17:00",
+        "endPeriod": "2022-09-20 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-21",
+        "dateReadable": "Rabu, 21 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-21",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-21",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-09-21 18:30",
+        "endPeriod": "2022-09-21 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-26",
+        "dateReadable": "Senin, 26 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-26",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-26",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-09-26 17:00",
+        "endPeriod": "2022-09-26 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-27",
+        "dateReadable": "Selasa, 27 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-27",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-09-27",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-09-27 17:00",
+        "endPeriod": "2022-09-27 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-09-28",
+        "dateReadable": "Rabu, 28 September 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-09-28",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-09-28",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-09-28 18:30",
+        "endPeriod": "2022-09-28 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-03",
+        "dateReadable": "Senin, 3 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-03",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-03",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-10-03 17:00",
+        "endPeriod": "2022-10-03 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-04",
+        "dateReadable": "Selasa, 4 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-04",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-04",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-04 17:00",
+        "endPeriod": "2022-10-04 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-05",
+        "dateReadable": "Rabu, 5 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-05",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-05",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-05 18:30",
+        "endPeriod": "2022-10-05 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-10",
+        "dateReadable": "Senin, 10 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-10",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-10-10",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-10-10 17:00",
+        "endPeriod": "2022-10-10 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-11",
+        "dateReadable": "Selasa, 11 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-11",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-11",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-11 17:00",
+        "endPeriod": "2022-10-11 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-12",
+        "dateReadable": "Rabu, 12 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-12",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-10-12",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-10-12 18:30",
+        "endPeriod": "2022-10-12 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-17",
+        "dateReadable": "Senin, 17 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-17",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-17",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-10-17 17:00",
+        "endPeriod": "2022-10-17 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-18",
+        "dateReadable": "Selasa, 18 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-18",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-18",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-18 17:00",
+        "endPeriod": "2022-10-18 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-19",
+        "dateReadable": "Rabu, 19 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-19",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-19",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-19 18:30",
+        "endPeriod": "2022-10-19 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-24",
+        "dateReadable": "Senin, 24 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-24",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-24",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-10-24 17:00",
+        "endPeriod": "2022-10-24 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-25",
+        "dateReadable": "Selasa, 25 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-25",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-25",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-25 17:00",
+        "endPeriod": "2022-10-25 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-26",
+        "dateReadable": "Rabu, 26 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-26",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-10-26",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-10-26 18:30",
+        "endPeriod": "2022-10-26 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-10-31",
+        "dateReadable": "Senin, 31 Oktober 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-10-31",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "UTS"
+            },
+            {
+                "date": "2022-10-31",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "UTS"
+            }
+        ],
+        "startPeriod": "2022-10-31 17:00",
+        "endPeriod": "2022-10-31 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-01",
+        "dateReadable": "Selasa, 1 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-01",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "UTS"
+            },
+            {
+                "date": "2022-11-01",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "UTS"
+            }
+        ],
+        "startPeriod": "2022-11-01 17:00",
+        "endPeriod": "2022-11-01 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-02",
+        "dateReadable": "Rabu, 2 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-02",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "UTS"
+            },
+            {
+                "date": "2022-11-02",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "UTS"
+            }
+        ],
+        "startPeriod": "2022-11-02 18:30",
+        "endPeriod": "2022-11-02 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-07",
+        "dateReadable": "Senin, 7 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-07",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-07",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-11-07 17:00",
+        "endPeriod": "2022-11-07 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-08",
+        "dateReadable": "Selasa, 8 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-08",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-11-08",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-11-08 17:00",
+        "endPeriod": "2022-11-08 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-09",
+        "dateReadable": "Rabu, 9 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-09",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-09",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-09 18:30",
+        "endPeriod": "2022-11-09 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-14",
+        "dateReadable": "Senin, 14 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-14",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-14",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-11-14 17:00",
+        "endPeriod": "2022-11-14 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-15",
+        "dateReadable": "Selasa, 15 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-15",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-15",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-15 17:00",
+        "endPeriod": "2022-11-15 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-16",
+        "dateReadable": "Rabu, 16 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-16",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-16",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-16 18:30",
+        "endPeriod": "2022-11-16 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-21",
+        "dateReadable": "Senin, 21 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-21",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-21",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-11-21 17:00",
+        "endPeriod": "2022-11-21 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-22",
+        "dateReadable": "Selasa, 22 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-22",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-11-22",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-11-22 17:00",
+        "endPeriod": "2022-11-22 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-23",
+        "dateReadable": "Rabu, 23 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-23",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-23",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-23 18:30",
+        "endPeriod": "2022-11-23 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-28",
+        "dateReadable": "Senin, 28 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-28",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-28",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-11-28 17:00",
+        "endPeriod": "2022-11-28 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-29",
+        "dateReadable": "Selasa, 29 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-29",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-29",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-29 17:00",
+        "endPeriod": "2022-11-29 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-11-30",
+        "dateReadable": "Rabu, 30 November 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-11-30",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-11-30",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-11-30 18:30",
+        "endPeriod": "2022-11-30 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-05",
+        "dateReadable": "Senin, 5 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-05",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-12-05",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-12-05 17:00",
+        "endPeriod": "2022-12-05 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-06",
+        "dateReadable": "Selasa, 6 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-06",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-06",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-12-06 17:00",
+        "endPeriod": "2022-12-06 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-07",
+        "dateReadable": "Rabu, 7 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-07",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "OFFLINE"
+            },
+            {
+                "date": "2022-12-07",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "OFFLINE"
+            }
+        ],
+        "startPeriod": "2022-12-07 18:30",
+        "endPeriod": "2022-12-07 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-12",
+        "dateReadable": "Senin, 12 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-12",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-12",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-12-12 17:00",
+        "endPeriod": "2022-12-12 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-13",
+        "dateReadable": "Selasa, 13 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-13",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-13",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-12-13 17:00",
+        "endPeriod": "2022-12-13 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-14",
+        "dateReadable": "Rabu, 14 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-14",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-14",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-12-14 18:30",
+        "endPeriod": "2022-12-14 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-19",
+        "dateReadable": "Senin, 19 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-19",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-19",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "DIATUR LAB"
+            }
+        ],
+        "startPeriod": "2022-12-19 17:00",
+        "endPeriod": "2022-12-19 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-20",
+        "dateReadable": "Selasa, 20 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-20",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-20",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-12-20 17:00",
+        "endPeriod": "2022-12-20 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-21",
+        "dateReadable": "Rabu, 21 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-21",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "ONLINE"
+            },
+            {
+                "date": "2022-12-21",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "ONLINE"
+            }
+        ],
+        "startPeriod": "2022-12-21 18:30",
+        "endPeriod": "2022-12-21 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-26",
+        "dateReadable": "Senin, 26 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-26",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Ilmu sosial dan budaya dasar",
+                "startPeriod": "17:00",
+                "type": "UAS"
+            },
+            {
+                "date": "2022-12-26",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Pemrograman berorientasi objek",
+                "startPeriod": "19:30",
+                "type": "UAS"
+            }
+        ],
+        "startPeriod": "2022-12-26 17:00",
+        "endPeriod": "2022-12-26 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-27",
+        "dateReadable": "Selasa, 27 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-27",
+                "endPeriod": "19:30",
+                "location": "R.5.5.1",
+                "name": "Sistem operasi",
+                "startPeriod": "17:00",
+                "type": "UAS"
+            },
+            {
+                "date": "2022-12-27",
+                "endPeriod": "22:00",
+                "location": "R.5.5.1",
+                "name": "Teori bahasa automata",
+                "startPeriod": "19:30",
+                "type": "UAS"
+            }
+        ],
+        "startPeriod": "2022-12-27 17:00",
+        "endPeriod": "2022-12-27 22:00",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    },
+    {
+        "date": "2022-12-28",
+        "dateReadable": "Rabu, 28 Desember 2022",
+        "scheduleCount": 2,
+        "schedules": [
+            {
+                "date": "2022-12-28",
+                "endPeriod": "20:10",
+                "location": "R.5.5.1",
+                "name": "Interpersonal skill",
+                "startPeriod": "18:30",
+                "type": "UAS"
+            },
+            {
+                "date": "2022-12-28",
+                "endPeriod": "21:50",
+                "location": "R.5.5.1",
+                "name": "Kewirausahaan",
+                "startPeriod": "20:10",
+                "type": "UAS"
+            }
+        ],
+        "startPeriod": "2022-12-28 18:30",
+        "endPeriod": "2022-12-28 21:50",
+        "isToday": false,
+        "isTomorrow": false,
+        "isYesterday": false
+    }
+]
